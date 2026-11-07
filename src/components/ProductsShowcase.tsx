@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { PRODUCTS_LIST } from "../data/tameeniData";
-import { ArrowLeft, Car, Stethoscope, Home, Plane, CreditCard, Truck, HeartPulse, Sparkles, Building2, User } from "lucide-react";
+import { ArrowLeft, Car, Stethoscope, Home, Plane, CreditCard, Truck, HeartPulse, Sparkles, Building2, User } from "./Icons";
 
 interface ProductsShowcaseProps {
   onSelectProduct: (productId: string) => void;

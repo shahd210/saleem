@@ -6,7 +6,7 @@ import {
   Sparkles,
   Network,
   ShieldCheck,
-} from "lucide-react";
+} from "./Icons";
 
 export function WhyTameeni() {
   const getIcon = (iconName: string) => {

@@ -6,7 +6,7 @@ import {
   Heart,
   Download,
   Share2,
-} from "lucide-react";
+} from "./Icons";
 
 export function Footer() {
   return (

@@ -15,7 +15,7 @@ import { FAQSection } from "./components/FAQSection";
 import { Footer } from "./components/Footer";
 import { NajmCalculatorModal } from "./components/NajmCalculatorModal";
 import { QuoteModal } from "./components/QuoteModal";
-import { Headphones, Sparkles, ArrowUp } from "lucide-react";
+import { Headphones, Sparkles, ArrowUp } from "./components/Icons";
 
 export function App() {
   const [quoteModalOpen, setQuoteModalOpen] = useState(false);

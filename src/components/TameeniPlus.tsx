@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { TAMEENI_PLUS_OFFERS, TameeniPlusItem } from "../data/tameeniData";
-import { Sparkles, ArrowLeft, Tag, Shield, Check, ShoppingBag, X } from "lucide-react";
+import { Sparkles, ArrowLeft, Tag, Shield, Check, ShoppingBag, X } from "./Icons";
 
 export function TameeniPlus() {
   const [selectedOffer, setSelectedOffer] = useState<TameeniPlusItem | null>(null);

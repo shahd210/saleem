@@ -1,4 +1,4 @@
-import { ShieldCheck, Percent, ArrowLeft, Car, Award, ChevronLeft } from "lucide-react";
+import { ShieldCheck, Percent, ArrowLeft, Car, Award, ChevronLeft } from "./Icons";
 
 export function SpecialServices() {
   return (

@@ -11,7 +11,7 @@ import {
   Lock,
   Download,
   AlertCircle,
-} from "lucide-react";
+} from "./Icons";
 
 interface QuoteModalProps {
   isOpen: boolean;

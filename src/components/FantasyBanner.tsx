@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Trophy, Flame, ArrowLeft, X, Sparkles, CheckCircle2 } from "lucide-react";
+import { Trophy, Flame, ArrowLeft, X, Sparkles, CheckCircle2 } from "./Icons";
 
 export function FantasyBanner() {
   const [modalOpen, setModalOpen] = useState(false);

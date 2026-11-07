@@ -10,7 +10,7 @@ import {
   ChevronLeft,
   Check,
   AlertCircle,
-} from "lucide-react";
+} from "./Icons";
 
 interface HeroProps {
   onStartQuote: (prefillData?: { idNumber: string; serialNumber: string; type: string }) => void;

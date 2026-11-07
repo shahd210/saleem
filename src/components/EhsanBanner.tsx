@@ -1,4 +1,4 @@
-import { HeartHandshake, ArrowLeft, Sparkles } from "lucide-react";
+import { HeartHandshake, ArrowLeft, Sparkles } from "./Icons";
 
 export function EhsanBanner() {
   return (

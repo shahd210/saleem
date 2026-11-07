@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Sparkles, X, Check, ShieldCheck, ArrowLeft, Percent } from "lucide-react";
+import { Sparkles, X, Check, ShieldCheck, ArrowLeft, Percent } from "./Icons";
 
 interface NajmCalculatorModalProps {
   isOpen: boolean;

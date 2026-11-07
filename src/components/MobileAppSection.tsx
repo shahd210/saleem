@@ -1,4 +1,4 @@
-import { Smartphone, Bell, Zap, Shield, Star, Download } from "lucide-react";
+import { Smartphone, Bell, Zap, Shield, Star, Download } from "./Icons";
 
 export function MobileAppSection() {
   return (

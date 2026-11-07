@@ -1,4 +1,4 @@
-import { Star, Gift, Printer, Percent, Award, ShieldCheck } from "lucide-react";
+import { Star, Gift, Printer, Percent, Award, ShieldCheck } from "./Icons";
 
 export function TrustStats() {
   return (

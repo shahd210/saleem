@@ -1,5 +1,5 @@
 import { INSURANCE_PARTNERS } from "../data/tameeniData";
-import { ShieldCheck } from "lucide-react";
+import { ShieldCheck } from "./Icons";
 
 export function PartnersMarquee() {
   return (

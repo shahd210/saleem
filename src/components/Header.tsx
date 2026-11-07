@@ -17,7 +17,7 @@ import {
   ShieldCheck,
   ChevronDown,
   Sparkles,
-} from "lucide-react";
+} from "./Icons";
 
 interface HeaderProps {
   onOpenQuoteModal: () => void;

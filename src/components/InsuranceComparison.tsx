@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { COMPARISON_PLANS } from "../data/tameeniData";
-import { Check, X, Shield, Sparkles, ArrowLeft, HelpCircle } from "lucide-react";
+import { Check, X, Shield, Sparkles, ArrowLeft, HelpCircle } from "./Icons";
 
 interface InsuranceComparisonProps {
   onSelectPlan: (planId: string) => void;

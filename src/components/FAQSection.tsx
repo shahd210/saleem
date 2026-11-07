@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FAQ_ITEMS } from "../data/tameeniData";
-import { ChevronDown, HelpCircle, Phone, Search, Sparkles } from "lucide-react";
+import { ChevronDown, HelpCircle, Phone, Search, Sparkles } from "./Icons";
 
 interface FAQSectionProps {
   onOpenNajmCalculator: () => void;
