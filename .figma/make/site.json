@@ -1,0 +1,10 @@
+{
+  "description": "منصة سعودية لمقارنة عروض التأمين للأفراد والشركات، واختيار التغطية المناسبة وإصدار الوثائق إلكترونيًا بسهولة وشفافية.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
